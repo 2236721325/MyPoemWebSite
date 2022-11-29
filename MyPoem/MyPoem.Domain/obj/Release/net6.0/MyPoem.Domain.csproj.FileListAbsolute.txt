@@ -1,0 +1,15 @@
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\bin\Release\net6.0\MyPoem.Domain.deps.json
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\bin\Release\net6.0\MyPoem.Domain.dll
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\bin\Release\net6.0\MyPoem.Domain.pdb
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\bin\Release\net6.0\MyPoem.Domain.Shared.dll
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\bin\Release\net6.0\MyPoem.Domain.Shared.pdb
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\obj\Release\net6.0\MyPoem.Domain.csproj.AssemblyReference.cache
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\obj\Release\net6.0\MyPoem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\obj\Release\net6.0\MyPoem.Domain.AssemblyInfoInputs.cache
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\obj\Release\net6.0\MyPoem.Domain.AssemblyInfo.cs
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\obj\Release\net6.0\MyPoem.Domain.csproj.CoreCompileInputs.cache
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\obj\Release\net6.0\MyPoem.Domain.csproj.CopyComplete
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\obj\Release\net6.0\MyPoem.Domain.dll
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\obj\Release\net6.0\refint\MyPoem.Domain.dll
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\obj\Release\net6.0\MyPoem.Domain.pdb
+D:\Coding\实战项目\MyPoem\MyPoem.Domain\obj\Release\net6.0\ref\MyPoem.Domain.dll

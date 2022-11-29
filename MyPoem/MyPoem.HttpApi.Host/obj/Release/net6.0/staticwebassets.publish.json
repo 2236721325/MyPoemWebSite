@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aUkVNaZkd76bFgbGlWR5Ps16AbYemDYhBWIf9+nLIzc=",
+  "Source": "MyPoem.HttpApi.Host",
+  "BasePath": "_content/MyPoem.HttpApi.Host",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
